@@ -9,6 +9,11 @@ Suicidal
 Normal
 The model analyzes textual patterns and sentiment to predict mental health status.
 
+Data Source:
+The dataset contains 53,043 textual statements labeled with mental health categories.
+Source: Publicly available mental health datasets and social media posts compiled into “Combined Data.csv”.
+Citation / Reference: Kaggle – Mental Health in Text
+
 🚀 Features:
 Text cleaning and preprocessing
 Sentiment analysis using TextBlob
