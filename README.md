@@ -72,5 +72,3 @@ Improve sentiment analysis using domain-specific models
 Rabbia Amjad
 Aspiring Data Analyst.
 
-Your Name
-Aspiring Data Scientist | NLP Enthusiast
