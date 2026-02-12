@@ -12,7 +12,7 @@ The model analyzes textual patterns and sentiment to predict mental health statu
 Data Source:
 The dataset contains 53,043 textual statements labeled with mental health categories.
 Source: Publicly available mental health datasets and social media posts compiled into “Combined Data.csv”.
-Citation / Reference: Kaggle – Mental Health in Text
+Citation / Reference: Kaggle – https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health
 
 🚀 Features:
 Text cleaning and preprocessing
