@@ -74,6 +74,5 @@ Improve sentiment analysis using domain-specific models
 ├── Mental health project.ipynb
 ├── README.md
 
-Rabbia Amjad
-Aspiring Data Analyst.
+Rabbia Amjad| Aspiring Data Analyst
 
